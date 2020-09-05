@@ -19,7 +19,10 @@
       <UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="Inc"><param name="Local" value="dir_cfd59a53644d9cda6499a1cccfc04678.html"><param name="ImageNumber" value="1"></OBJECT>
         <UL>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="module1.h"><param name="Local" value="module1_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="module1.h"><param name="Local" value="module1_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="task1"><param name="Local" value="module1_8h.html#afde07648040c326129670547738a0c86"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
         </UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="Src"><param name="Local" value="dir_1c4e27d68973f26682b99ceaee20f76f.html"><param name="ImageNumber" value="1"></OBJECT>
         <UL>
