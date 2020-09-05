@@ -14,6 +14,12 @@ main -> printf;
 execute -> compare;
 }
 \enddot
+ *\msc
+ *  T,"Iberian Dance Task";
+ *
+ *  T>>"Iberian Dance Task" [label="IbFandangoReq", URL="\ref IbFandangoReq"];
+ *  T<<"Iberian Dance Task" [label="IbFandangoCnf", URL="\ref IbFandangoCnf", ID="1"];
+ *\endmsc
 */
 int main(){
 	printf("Hello World \n");
